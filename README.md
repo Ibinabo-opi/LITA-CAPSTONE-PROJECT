@@ -92,3 +92,24 @@ Data Visualization
 In Microsoft Excel, Pivot tables were used to summarize the data and Bar charts were created to visually represent key insights.
 In SQL Server Management Studio, codes were written to provide answers to research questions and screenshots of the output was taken.
 In Power BI, several visualizations were made using Bar charts, tables, cards, Pie charts, Slicers, etc.
+EXPLORATORY DATA ANALYSIS
+
+EDA involved the exploring of Data to answer some questions about the Data such as;
+
+MICROSOFT EXCEL: i. Using pivot tables to summarize
+total sales by product
+total sales by region
+total sales by month. ii. Use Excel formulas to calculate metrics such as average sales per product and total revenue by region
+SQL: Codes were written to validate these queries
+retrieve the total sales for each product category.
+find the number of sales transactions in each region.
+find the highest-selling product by total sales value.
+calculate total revenue per product.
+calculate monthly sales totals for the current year.
+find the top 5 customers by total purchase amount.
+calculate the percentage of total sales contributed by each region.
+identify products with no sales in the last quarter.
+POWER BI: Create a Dashboard that visualizes the insights found in Excel and SQL, the dashboard should include
+Sales overview
+Top-performing products, and
+Regional breakdowns
